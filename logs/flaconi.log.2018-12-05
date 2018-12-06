@@ -1,0 +1,22 @@
+{"message":"Failed to fetch category with id ddd: SequelizeValidationError: \"ddd\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id ddd: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","level":"error"}
+{"message":"Failed to fetch category with id '1': SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","level":"error"}
+{"message":"Failed to fetch category with id ffff: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","level":"error"}
+{"message":"Failed to fetch category with id 1@234: SequelizeValidationError: \"1@234\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id dde: SequelizeValidationError: \"dde\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id fff: SequelizeValidationError: \"fff\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 123_: SequelizeValidationError: \"123_\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 123_: SequelizeValidationError: \"123_\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 123_: SequelizeValidationError: \"123_\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id qss: SequelizeValidationError: \"qss\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 123@: SequelizeValidationError: \"123@\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id undefined: SequelizeValidationError: \"undefined\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id NaN: SequelizeValidationError: \"NaN\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 4e4: SequelizeValidationError: \"4e4\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 4e4: SequelizeValidationError: \"4e4\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 2ss: SequelizeValidationError: \"2ss\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id ff: SequelizeValidationError: \"ff\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 3d: SequelizeValidationError: \"3d\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 3d: SequelizeValidationError: \"3d\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id 3d: SequelizeValidationError: \"3d\" is not a valid integer","level":"error"}
+{"message":"Failed to fetch category with id dd: SequelizeValidationError: \"dd\" is not a valid integer","level":"error"}
